@@ -4,6 +4,7 @@ My initial skeleton for starting a java project
 
 # Structure 
 
+```
 .
 ├── lib
 └── src
@@ -36,3 +37,5 @@ My initial skeleton for starting a java project
                         └── service
                             └── application
                                 └── impl
+                                
+```
